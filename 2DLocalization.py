@@ -78,6 +78,7 @@ def move(p, motions, p_move):
     for i in range(len(p)):
         for j in range(len(p[i])):
             q[i].append(p_move * p[(i-motions[0]) % len(p)][(j-motions[1]) % len(p[i])] + (p_stay * p[i][j]))
+    show(q)
     return q
 
 def show(p):
