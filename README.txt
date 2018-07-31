@@ -1,3 +1,5 @@
+Group member: James Feng, Andrew Lin, Hao Zhang
+
 Concepts of Localization for Autonomous Driving
 With the increasing availability and decreasing costs of advanced input and output technology, there has been a growing interest from the automotive industry to develop autonomous vehicles. Global positioning system (GPS) technologies have advanced significantly in the past decade. Modern day smartphones are currently accurate down to 4.9 meters, while higher end dual frequency receivers are accurate down to a few centimeters. However, with environmental factors, such as trees, buildings and tunnels, these systems cannot be the sole technology to predict location. Furthermore, the behavior of other vehicle operators requires sensor technologies that can detect and respond to their environment. As a result, advanced imaging technologies, including LIDAR, sonar, radar, stereoscopic imaging, etc., have been proposed as a solution to this problem. Similar to GPS’s, these technologies also suffer from limitations of inaccuracy. It is therefore unavoidable to depend on software tools to account for inaccuracies and lack of precision in modern day sensors.
 
